@@ -1,3 +1,3 @@
 # puzzle
-https://andreizaretski.github.io/Puzzle/index.html
+https://andreizaretski.github.io/puzzle/
  
